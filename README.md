@@ -1,0 +1,2 @@
+# FtpBrowser
+sublime_plugin
